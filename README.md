@@ -1,4 +1,4 @@
-### Hi there 👋
+<h5>👋 Hi, I’m Ahmed Elsharabasy (@ahmedsharabasy) <h5>
 
 <!--
 **ahmedsharabasy/ahmedsharabasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+<hr></hr>
+💼 Data science specialist || System analysis generalist
+<hr></hr>
+<ul>
+📫 How to reach me:
+<li>Email: ak160543@gmail.com</li>
+<li>LinkedIn: www.linkedin.com/in/ahmed-elsharabasy-449b181b4</li>
+  </ul>
