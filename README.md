@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m Ahmed Elsharabasy (@ahmedsharabasy) </h2>
-<h3>💼 Data science specialist || System analysis generalist</h3>
+<h3>💼 Data scientist - Data analyst</h3>
 <hr></hr>
 <h4>⚡ Fun fact:Analytics geek 🤓, playing with data and beyond&#127919;.</h4>
 <hr></hr>
@@ -10,8 +10,7 @@
 <li>LinkedIn: www.linkedin.com/in/ahmed-elsharabasy-449b181b4</li>
   </ul>
 <br>
-I'm studying information systems at faculty of Artificial intelligence and computer science. My major is data science & ML & DL and I'm a data analyst enthusiast.
-Deep understanding of the information systems and systems analytics and how to optimize it with data science.
+A results-driven Data Analyst analyzing data to uncover key business insights and trends. Passionate about using data to help companies make better decisions and gain a competitive edge and providing valuable insights and recommendations through data analysis and visualization. My mentality is the mentality of an analyst, always looking for what is behind the numbers and the reasons why these results are available now.
 
 <br>
 
