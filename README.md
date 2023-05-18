@@ -7,7 +7,7 @@
 <h6>📫 How to reach me:</h6>
 <ul>
 <li>Email: ak160543@gmail.com</li>
-<li>LinkedIn: www.linkedin.com/in/ahmed-elsharabasy-449b181b4</li>
+<li>LinkedIn: https://www.linkedin.com/in/ahmed-elsharabassy/</li>
   </ul>
 <br>
 A results-driven Data Analyst analyzing data to uncover key business insights and trends. Passionate about using data to help companies make better decisions and gain a competitive edge and providing valuable insights and recommendations through data analysis and visualization. My mentality is the mentality of an analyst, always looking for what is behind the numbers and the reasons why these results are available now.
