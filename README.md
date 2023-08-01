@@ -13,7 +13,10 @@
 A results-driven Data Analyst analyzing data to uncover key business insights and trends. Passionate about using data to help companies make better decisions and gain a competitive edge and providing valuable insights and recommendations through data analysis and visualization. My mentality is the mentality of an analyst, always looking for what is behind the numbers and the reasons why these results are available now.
 
 <br>
-
+<br>
+<b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing
+<br>
+<b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS
 
 
 
