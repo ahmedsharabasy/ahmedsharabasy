@@ -9,15 +9,14 @@
 <li>Email: ahmedkhaled.cs4@gmail.com</li>
 <li>LinkedIn: https://www.linkedin.com/in/ahmed-elsharabassy/</li>
   </ul>
-<br>
-A results-driven Data Analyst analyzing data to uncover key business insights and trends. Passionate about using data to help companies make better decisions and gain a competitive edge and providing valuable insights and recommendations through data analysis and visualization. My mentality is the mentality of an analyst, always looking for what is behind the numbers and the reasons why these results are available now.
+  
+<h6>&#129520; Skills:</h6>
+<ul><li><b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing</li>
+<li><b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS</li>
+</ul>
 
 <br>
-<br>
-<b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing
-<br>
-<b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS
-
+An outcome-based data analyst with marketing domain Knowledge. I analyze data to uncover key trends, business intelligence and Marketing needs. Passionate about using data to help companies make better decisions, gain a competitive edge, provide valuable insights and recommendations through data analysis and visualization, and applying statistical and ML/DL techniques to large and complex datasets.
 
 
 
