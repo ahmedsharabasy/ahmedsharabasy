@@ -11,8 +11,8 @@
   </ul>
   
 <h6>&#129520; Skills:</h6>
-<ul><li><b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing</li>
-<li><b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS</li>
+<ul><li><b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing Data Analysis</li>
+<li><b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS cloud basics</li>
 </ul>
 
 <br>
