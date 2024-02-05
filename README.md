@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m Ahmed Elsharabasy (@ahmedsharabasy) </h2>
-<h3>💼 Data scientist - Data analyst</h3>
+<h3>💼 Business Intelligence Developer - Data Analyst</h3>
 <hr></hr>
 <h4>⚡ Fun fact:Analytics geek 🤓, playing with data and beyond&#127919;.</h4>
 <hr></hr>
