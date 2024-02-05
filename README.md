@@ -1,4 +1,5 @@
-<h2>👋 Hi, I’m Ahmed Elsharabasy (@ahmedsharabasy) </h2>
+<
+h2>👋 Hi, I’m Ahmed Elsharabasy (@ahmedsharabasy) </h2>
 <h3>💼 Business Intelligence Developer - Data Analyst</h3>
 <hr></hr>
 <h4>⚡ Fun fact:Analytics geek 🤓, playing with data and beyond&#127919;.</h4>
@@ -11,7 +12,7 @@
   </ul>
   
 <h6>&#129520; Skills:</h6>
-<ul><li><b>Experienced:</b> Python, SQL, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing Data Analysis</li>
+<ul><li><b>Experienced:</b> Python, SQL, SQL Server, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing Data Analysis</li>
 <li><b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS cloud basics</li>
 </ul>
 
