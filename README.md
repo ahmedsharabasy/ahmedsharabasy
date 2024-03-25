@@ -14,12 +14,31 @@
 <ul><li><b>Experienced:</b> Python, SQL, SQL Server, MySQL, Power BI, Excel, Machine Learning, Data Modeling, Data mining, Marketing Data Analysis</li>
 <li><b>Familiar:</b> NoSQL, MongoDB, Deep learning, Web scraping (Beautiful Soup), System analysis, AWS cloud basics</li>
 </ul>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+
 
 <br>
 An outcome-based data analyst with marketing domain Knowledge. I analyze data to uncover key trends, business intelligence and Marketing needs. Passionate about using data to help companies make better decisions, gain a competitive edge, provide valuable insights and recommendations through data analysis and visualization, and applying statistical and ML/DL techniques to large and complex datasets.
-
-
-
 
 
 
